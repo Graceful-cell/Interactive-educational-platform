@@ -1,1 +1,1 @@
-# Interactive-educational-platform
+gh repo clone Graceful-cell/Interactive-educational-platform
